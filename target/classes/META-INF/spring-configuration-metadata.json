@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.toyimageresizer.utils.FileStorageProperties",
+      "sourceType": "com.toyimageresizer.utils.FileStorageProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
